@@ -1,0 +1,24 @@
+C:\Users\F540YA\Desktop\VB 3 Exercicio\teste\teste01\teste01\obj\Debug\teste01.vbprojAssemblyReference.cache
+C:\Users\F540YA\Desktop\VB 3 Exercicio\teste\teste01\teste01\obj\Debug\teste01.Eleições.resources
+C:\Users\F540YA\Desktop\VB 3 Exercicio\teste\teste01\teste01\obj\Debug\teste01.Resources.resources
+C:\Users\F540YA\Desktop\VB 3 Exercicio\teste\teste01\teste01\obj\Debug\teste01.vbproj.GenerateResource.cache
+C:\Users\F540YA\Desktop\VB 3 Exercicio\teste\teste01\teste01\obj\Debug\teste01.vbproj.CoreCompileInputs.cache
+C:\Users\F540YA\Desktop\VB 3 Exercicio\teste\teste01\teste01\bin\Debug\teste01.exe.config
+C:\Users\F540YA\Desktop\VB 3 Exercicio\teste\teste01\teste01\bin\Debug\teste01.exe
+C:\Users\F540YA\Desktop\VB 3 Exercicio\teste\teste01\teste01\bin\Debug\teste01.pdb
+C:\Users\F540YA\Desktop\VB 3 Exercicio\teste\teste01\teste01\bin\Debug\teste01.xml
+C:\Users\F540YA\Desktop\VB 3 Exercicio\teste\teste01\teste01\obj\Debug\teste01.exe
+C:\Users\F540YA\Desktop\VB 3 Exercicio\teste\teste01\teste01\obj\Debug\teste01.xml
+C:\Users\F540YA\Desktop\VB 3 Exercicio\teste\teste01\teste01\obj\Debug\teste01.pdb
+E:\ISMAI  tecnológia\fernando visual basic\VB 3 Exercicio\teste\teste01\teste01\obj\Debug\teste01.vbprojAssemblyReference.cache
+E:\ISMAI  tecnológia\fernando visual basic\VB 3 Exercicio\teste\teste01\teste01\obj\Debug\teste01.Resources.resources
+E:\ISMAI  tecnológia\fernando visual basic\VB 3 Exercicio\teste\teste01\teste01\obj\Debug\teste01.vbproj.GenerateResource.cache
+E:\ISMAI  tecnológia\fernando visual basic\VB 3 Exercicio\teste\teste01\teste01\obj\Debug\teste01.vbproj.CoreCompileInputs.cache
+E:\ISMAI  tecnológia\fernando visual basic\VB 3 Exercicio\teste\teste01\teste01\obj\Debug\teste01.exe
+E:\ISMAI  tecnológia\fernando visual basic\VB 3 Exercicio\teste\teste01\teste01\obj\Debug\teste01.xml
+E:\ISMAI  tecnológia\fernando visual basic\VB 3 Exercicio\teste\teste01\teste01\obj\Debug\teste01.pdb
+E:\ISMAI  tecnológia\fernando visual basic\VB 3 Exercicio\teste\teste01\teste01\bin\Debug\teste01.exe.config
+E:\ISMAI  tecnológia\fernando visual basic\VB 3 Exercicio\teste\teste01\teste01\bin\Debug\teste01.exe
+E:\ISMAI  tecnológia\fernando visual basic\VB 3 Exercicio\teste\teste01\teste01\bin\Debug\teste01.pdb
+E:\ISMAI  tecnológia\fernando visual basic\VB 3 Exercicio\teste\teste01\teste01\bin\Debug\teste01.xml
+E:\ISMAI  tecnológia\fernando visual basic\VB 3 Exercicio\teste\teste01\teste01\obj\Debug\teste01.Eleicao.resources

@@ -1,0 +1,36 @@
+C:\Users\F540YA\Desktop\teste04\teste04\teste04\bin\Debug\teste04.exe.config
+C:\Users\F540YA\Desktop\teste04\teste04\teste04\bin\Debug\teste04.exe
+C:\Users\F540YA\Desktop\teste04\teste04\teste04\bin\Debug\teste04.pdb
+C:\Users\F540YA\Desktop\teste04\teste04\teste04\bin\Debug\teste04.xml
+C:\Users\F540YA\Desktop\teste04\teste04\teste04\obj\Debug\teste04.vbprojAssemblyReference.cache
+C:\Users\F540YA\Desktop\teste04\teste04\teste04\obj\Debug\teste04.Form1.resources
+C:\Users\F540YA\Desktop\teste04\teste04\teste04\obj\Debug\teste04.Resources.resources
+C:\Users\F540YA\Desktop\teste04\teste04\teste04\obj\Debug\teste04.vbproj.GenerateResource.cache
+C:\Users\F540YA\Desktop\teste04\teste04\teste04\obj\Debug\teste04.vbproj.CoreCompileInputs.cache
+C:\Users\F540YA\Desktop\teste04\teste04\teste04\obj\Debug\teste04.exe
+C:\Users\F540YA\Desktop\teste04\teste04\teste04\obj\Debug\teste04.xml
+C:\Users\F540YA\Desktop\teste04\teste04\teste04\obj\Debug\teste04.pdb
+E:\ISMAI  tecnológia\fernando visual basic\teste04\teste04\teste04\bin\Debug\teste04.exe.config
+E:\ISMAI  tecnológia\fernando visual basic\teste04\teste04\teste04\bin\Debug\teste04.exe
+E:\ISMAI  tecnológia\fernando visual basic\teste04\teste04\teste04\bin\Debug\teste04.pdb
+E:\ISMAI  tecnológia\fernando visual basic\teste04\teste04\teste04\bin\Debug\teste04.xml
+E:\ISMAI  tecnológia\fernando visual basic\teste04\teste04\teste04\obj\Debug\teste04.vbprojAssemblyReference.cache
+E:\ISMAI  tecnológia\fernando visual basic\teste04\teste04\teste04\obj\Debug\teste04.Form1.resources
+E:\ISMAI  tecnológia\fernando visual basic\teste04\teste04\teste04\obj\Debug\teste04.Resources.resources
+E:\ISMAI  tecnológia\fernando visual basic\teste04\teste04\teste04\obj\Debug\teste04.vbproj.GenerateResource.cache
+E:\ISMAI  tecnológia\fernando visual basic\teste04\teste04\teste04\obj\Debug\teste04.vbproj.CoreCompileInputs.cache
+E:\ISMAI  tecnológia\fernando visual basic\teste04\teste04\teste04\obj\Debug\teste04.exe
+E:\ISMAI  tecnológia\fernando visual basic\teste04\teste04\teste04\obj\Debug\teste04.xml
+E:\ISMAI  tecnológia\fernando visual basic\teste04\teste04\teste04\obj\Debug\teste04.pdb
+D:\ISMAI  tecnológia\fernando visual basic\teste04\teste04\teste04\bin\Debug\teste04.exe.config
+D:\ISMAI  tecnológia\fernando visual basic\teste04\teste04\teste04\bin\Debug\teste04.exe
+D:\ISMAI  tecnológia\fernando visual basic\teste04\teste04\teste04\bin\Debug\teste04.pdb
+D:\ISMAI  tecnológia\fernando visual basic\teste04\teste04\teste04\bin\Debug\teste04.xml
+D:\ISMAI  tecnológia\fernando visual basic\teste04\teste04\teste04\obj\Debug\teste04.vbprojAssemblyReference.cache
+D:\ISMAI  tecnológia\fernando visual basic\teste04\teste04\teste04\obj\Debug\teste04.Form1.resources
+D:\ISMAI  tecnológia\fernando visual basic\teste04\teste04\teste04\obj\Debug\teste04.Resources.resources
+D:\ISMAI  tecnológia\fernando visual basic\teste04\teste04\teste04\obj\Debug\teste04.vbproj.GenerateResource.cache
+D:\ISMAI  tecnológia\fernando visual basic\teste04\teste04\teste04\obj\Debug\teste04.vbproj.CoreCompileInputs.cache
+D:\ISMAI  tecnológia\fernando visual basic\teste04\teste04\teste04\obj\Debug\teste04.exe
+D:\ISMAI  tecnológia\fernando visual basic\teste04\teste04\teste04\obj\Debug\teste04.xml
+D:\ISMAI  tecnológia\fernando visual basic\teste04\teste04\teste04\obj\Debug\teste04.pdb

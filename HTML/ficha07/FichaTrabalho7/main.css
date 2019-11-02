@@ -1,0 +1,31 @@
+ span {
+    color :red;
+ }
+ #d1{
+	float:left; 
+	width:25%;
+	background-color:gray;
+	color:blue;
+	margin-right:10px;
+ }
+ #d2{
+	float:left; 
+    width:22%;	
+	background-color:gray;
+	color:red;
+	margin-right:10px;
+ }
+ #d3{
+	float:left;  
+    width:17%;
+    background-color:LightGray;
+	color:Aquamarine;
+    margin-right:10px;	
+ }
+ #d4{
+	 float:left; 
+     width:15%;	
+	 background-color:MediumSlateBlue;
+	 color:white;
+	 margin-right:10px;
+ }

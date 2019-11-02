@@ -1,0 +1,11 @@
+E:\ISMAI  tecnológia\Rui Monteiro\C#_Rui_Monteiro\Ex01\exemplo01\bin\Debug\netcoreapp3.0\exemplo01.exe
+E:\ISMAI  tecnológia\Rui Monteiro\C#_Rui_Monteiro\Ex01\exemplo01\bin\Debug\netcoreapp3.0\exemplo01.deps.json
+E:\ISMAI  tecnológia\Rui Monteiro\C#_Rui_Monteiro\Ex01\exemplo01\bin\Debug\netcoreapp3.0\exemplo01.runtimeconfig.json
+E:\ISMAI  tecnológia\Rui Monteiro\C#_Rui_Monteiro\Ex01\exemplo01\bin\Debug\netcoreapp3.0\exemplo01.runtimeconfig.dev.json
+E:\ISMAI  tecnológia\Rui Monteiro\C#_Rui_Monteiro\Ex01\exemplo01\bin\Debug\netcoreapp3.0\exemplo01.dll
+E:\ISMAI  tecnológia\Rui Monteiro\C#_Rui_Monteiro\Ex01\exemplo01\bin\Debug\netcoreapp3.0\exemplo01.pdb
+E:\ISMAI  tecnológia\Rui Monteiro\C#_Rui_Monteiro\Ex01\exemplo01\obj\Debug\netcoreapp3.0\exemplo01.csprojAssemblyReference.cache
+E:\ISMAI  tecnológia\Rui Monteiro\C#_Rui_Monteiro\Ex01\exemplo01\obj\Debug\netcoreapp3.0\exemplo01.AssemblyInfoInputs.cache
+E:\ISMAI  tecnológia\Rui Monteiro\C#_Rui_Monteiro\Ex01\exemplo01\obj\Debug\netcoreapp3.0\exemplo01.AssemblyInfo.cs
+E:\ISMAI  tecnológia\Rui Monteiro\C#_Rui_Monteiro\Ex01\exemplo01\obj\Debug\netcoreapp3.0\exemplo01.dll
+E:\ISMAI  tecnológia\Rui Monteiro\C#_Rui_Monteiro\Ex01\exemplo01\obj\Debug\netcoreapp3.0\exemplo01.pdb

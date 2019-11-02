@@ -1,0 +1,46 @@
+   body{
+	background: url("Wikipedia-logo.png");
+    background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-color: MidnightBlue;
+	}
+  h1{
+     font-family:verdana;
+     color:green;
+	 text-align:center;
+	 background:white;
+  }
+ h2{
+     font-family:Georgia,"Times New Roman",Times,serif;
+	 color:green;
+  }
+ p{
+     font-family:Tahoma,Georgia,sans-serif;
+     font-size:16px;
+	 color:green;
+	 text-align:justify;
+  }
+  p.p1{
+     color:Cyan;
+  }
+  p.pf{
+      text-decoration:line-through;
+  }
+  table{
+   width:100%;
+    text-align:center;
+  }
+  td{
+    width: 33%;
+  }
+  a{
+    color:green;
+  }
+  a:visited {
+  color:gray;
+  }
+  a:hover{
+      background-color:orange;
+	  text-transform:uppercase;
+  }

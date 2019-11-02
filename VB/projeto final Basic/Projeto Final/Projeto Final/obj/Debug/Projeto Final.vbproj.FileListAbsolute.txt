@@ -1,0 +1,25 @@
+E:\ISMAI  tecnológia\fernando visual basic\projeto final Basic\Projeto Final\Projeto Final\bin\Debug\Projeto Final.exe.config
+E:\ISMAI  tecnológia\fernando visual basic\projeto final Basic\Projeto Final\Projeto Final\bin\Debug\Projeto Final.exe
+E:\ISMAI  tecnológia\fernando visual basic\projeto final Basic\Projeto Final\Projeto Final\bin\Debug\Projeto Final.pdb
+E:\ISMAI  tecnológia\fernando visual basic\projeto final Basic\Projeto Final\Projeto Final\bin\Debug\Projeto Final.xml
+E:\ISMAI  tecnológia\fernando visual basic\projeto final Basic\Projeto Final\Projeto Final\obj\Debug\Projeto Final.vbprojAssemblyReference.cache
+E:\ISMAI  tecnológia\fernando visual basic\projeto final Basic\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Form1.resources
+E:\ISMAI  tecnológia\fernando visual basic\projeto final Basic\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Form2.resources
+E:\ISMAI  tecnológia\fernando visual basic\projeto final Basic\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Resources.resources
+E:\ISMAI  tecnológia\fernando visual basic\projeto final Basic\Projeto Final\Projeto Final\obj\Debug\Projeto Final.vbproj.GenerateResource.cache
+E:\ISMAI  tecnológia\fernando visual basic\projeto final Basic\Projeto Final\Projeto Final\obj\Debug\Projeto Final.exe
+E:\ISMAI  tecnológia\fernando visual basic\projeto final Basic\Projeto Final\Projeto Final\obj\Debug\Projeto Final.xml
+E:\ISMAI  tecnológia\fernando visual basic\projeto final Basic\Projeto Final\Projeto Final\obj\Debug\Projeto Final.pdb
+D:\ISMAI  tecnológia\fernando visual basic\projeto final Basic\Projeto Final\Projeto Final\bin\Debug\Projeto Final.exe.config
+D:\ISMAI  tecnológia\fernando visual basic\projeto final Basic\Projeto Final\Projeto Final\bin\Debug\Projeto Final.exe
+D:\ISMAI  tecnológia\fernando visual basic\projeto final Basic\Projeto Final\Projeto Final\bin\Debug\Projeto Final.pdb
+D:\ISMAI  tecnológia\fernando visual basic\projeto final Basic\Projeto Final\Projeto Final\bin\Debug\Projeto Final.xml
+D:\ISMAI  tecnológia\fernando visual basic\projeto final Basic\Projeto Final\Projeto Final\obj\Debug\Projeto Final.vbprojAssemblyReference.cache
+D:\ISMAI  tecnológia\fernando visual basic\projeto final Basic\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Form1.resources
+D:\ISMAI  tecnológia\fernando visual basic\projeto final Basic\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Form2.resources
+D:\ISMAI  tecnológia\fernando visual basic\projeto final Basic\Projeto Final\Projeto Final\obj\Debug\Projeto_Final.Resources.resources
+D:\ISMAI  tecnológia\fernando visual basic\projeto final Basic\Projeto Final\Projeto Final\obj\Debug\Projeto Final.vbproj.GenerateResource.cache
+D:\ISMAI  tecnológia\fernando visual basic\projeto final Basic\Projeto Final\Projeto Final\obj\Debug\Projeto Final.vbproj.CoreCompileInputs.cache
+D:\ISMAI  tecnológia\fernando visual basic\projeto final Basic\Projeto Final\Projeto Final\obj\Debug\Projeto Final.exe
+D:\ISMAI  tecnológia\fernando visual basic\projeto final Basic\Projeto Final\Projeto Final\obj\Debug\Projeto Final.xml
+D:\ISMAI  tecnológia\fernando visual basic\projeto final Basic\Projeto Final\Projeto Final\obj\Debug\Projeto Final.pdb

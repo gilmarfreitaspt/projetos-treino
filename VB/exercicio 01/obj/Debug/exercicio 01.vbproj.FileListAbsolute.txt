@@ -1,0 +1,12 @@
+C:\Users\formando\Desktop\vb\vb ex1\exercicio 01\obj\Debug\exercicio 01.vbprojAssemblyReference.cache
+C:\Users\formando\Desktop\vb\vb ex1\exercicio 01\obj\Debug\exercicio_01.lbvalor.resources
+C:\Users\formando\Desktop\vb\vb ex1\exercicio 01\obj\Debug\exercicio_01.Resources.resources
+C:\Users\formando\Desktop\vb\vb ex1\exercicio 01\obj\Debug\exercicio 01.vbproj.GenerateResource.cache
+C:\Users\formando\Desktop\vb\vb ex1\exercicio 01\obj\Debug\exercicio 01.vbproj.CoreCompileInputs.cache
+C:\Users\formando\Desktop\vb\vb ex1\exercicio 01\bin\Debug\exercicio 01.exe.config
+C:\Users\formando\Desktop\vb\vb ex1\exercicio 01\bin\Debug\exercicio 01.exe
+C:\Users\formando\Desktop\vb\vb ex1\exercicio 01\bin\Debug\exercicio 01.pdb
+C:\Users\formando\Desktop\vb\vb ex1\exercicio 01\bin\Debug\exercicio 01.xml
+C:\Users\formando\Desktop\vb\vb ex1\exercicio 01\obj\Debug\exercicio 01.exe
+C:\Users\formando\Desktop\vb\vb ex1\exercicio 01\obj\Debug\exercicio 01.xml
+C:\Users\formando\Desktop\vb\vb ex1\exercicio 01\obj\Debug\exercicio 01.pdb

@@ -1,0 +1,12 @@
+C:\Users\formando\Desktop\exercicio07basic\exercicio07basic\bin\Debug\exercicio07basic.exe.config
+C:\Users\formando\Desktop\exercicio07basic\exercicio07basic\bin\Debug\exercicio07basic.exe
+C:\Users\formando\Desktop\exercicio07basic\exercicio07basic\bin\Debug\exercicio07basic.pdb
+C:\Users\formando\Desktop\exercicio07basic\exercicio07basic\bin\Debug\exercicio07basic.xml
+C:\Users\formando\Desktop\exercicio07basic\exercicio07basic\obj\Debug\exercicio07basic.vbprojAssemblyReference.cache
+C:\Users\formando\Desktop\exercicio07basic\exercicio07basic\obj\Debug\exercicio07basic.Form1.resources
+C:\Users\formando\Desktop\exercicio07basic\exercicio07basic\obj\Debug\exercicio07basic.Resources.resources
+C:\Users\formando\Desktop\exercicio07basic\exercicio07basic\obj\Debug\exercicio07basic.vbproj.GenerateResource.cache
+C:\Users\formando\Desktop\exercicio07basic\exercicio07basic\obj\Debug\exercicio07basic.vbproj.CoreCompileInputs.cache
+C:\Users\formando\Desktop\exercicio07basic\exercicio07basic\obj\Debug\exercicio07basic.exe
+C:\Users\formando\Desktop\exercicio07basic\exercicio07basic\obj\Debug\exercicio07basic.xml
+C:\Users\formando\Desktop\exercicio07basic\exercicio07basic\obj\Debug\exercicio07basic.pdb

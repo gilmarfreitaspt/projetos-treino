@@ -1,0 +1,12 @@
+C:\Users\formando\Desktop\exercicio05\exercicio05\bin\Debug\exercicio05.exe.config
+C:\Users\formando\Desktop\exercicio05\exercicio05\bin\Debug\exercicio05.exe
+C:\Users\formando\Desktop\exercicio05\exercicio05\bin\Debug\exercicio05.pdb
+C:\Users\formando\Desktop\exercicio05\exercicio05\bin\Debug\exercicio05.xml
+C:\Users\formando\Desktop\exercicio05\exercicio05\obj\Debug\exercicio05.vbprojAssemblyReference.cache
+C:\Users\formando\Desktop\exercicio05\exercicio05\obj\Debug\exercicio05.Form1.resources
+C:\Users\formando\Desktop\exercicio05\exercicio05\obj\Debug\exercicio05.Resources.resources
+C:\Users\formando\Desktop\exercicio05\exercicio05\obj\Debug\exercicio05.vbproj.GenerateResource.cache
+C:\Users\formando\Desktop\exercicio05\exercicio05\obj\Debug\exercicio05.vbproj.CoreCompileInputs.cache
+C:\Users\formando\Desktop\exercicio05\exercicio05\obj\Debug\exercicio05.exe
+C:\Users\formando\Desktop\exercicio05\exercicio05\obj\Debug\exercicio05.xml
+C:\Users\formando\Desktop\exercicio05\exercicio05\obj\Debug\exercicio05.pdb
